@@ -1,5 +1,5 @@
 # bitcoin
-Create a Haskell application which retrieves historical bitcoin data from 
+A Haskell application which retrieves historical bitcoin data from 
 Yahoo finance website and uses a database to store and manipulate the data.
 Source - https://uk.finance.yahoo.com/quote/BTC-GBP/history?p=BTCGBP&
 
